@@ -1,0 +1,13 @@
+
+{
+  "name": "node-cd-assignment",
+  "version": "1.0.0",
+  "description": "Node.js Continuous Delivery Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
